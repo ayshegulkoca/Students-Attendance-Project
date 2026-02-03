@@ -1,0 +1,43 @@
+[2026-01-27 10:13:02] ===== App started =====
+[2026-01-27 10:13:02] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-01-27 10:13:02] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-01-30 19:59:26] ===== App started =====
+[2026-01-30 19:59:26] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-01-30 19:59:26] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-01-30 20:00:30] Cascade resolve -> C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project\haarcascade_frontalface_default.xml
+[2026-01-30 20:00:30] OpenCV version: 4.13.0
+[2026-01-30 20:00:30] Trying camera indices [0, 1, 2, 3, 4, 5] with backends [700, 1400, 0]
+[2026-01-30 20:00:31] Try index=0, backend=700 -> opened=True
+[2026-01-30 20:00:34] Read test index=0, backend=700 -> ok=True, frame_none=False
+[2026-01-30 20:01:01] Cascade resolve -> C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project\haarcascade_frontalface_default.xml
+[2026-01-30 20:01:01] OpenCV version: 4.13.0
+[2026-01-30 20:01:01] Trying camera indices [0, 1, 2, 3, 4, 5] with backends [700, 1400, 0]
+[2026-01-30 20:01:01] Try index=0, backend=700 -> opened=True
+[2026-01-30 20:01:03] Read test index=0, backend=700 -> ok=True, frame_none=False
+[2026-01-30 20:37:29] ===== App started =====
+[2026-01-30 20:37:29] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-01-30 20:37:29] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 10:05:32] ===== App started =====
+[2026-02-03 10:05:32] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 10:05:32] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 10:05:35] Cascade resolve -> C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project\haarcascade_frontalface_default.xml
+[2026-02-03 10:05:35] OpenCV version: 4.13.0
+[2026-02-03 10:05:35] Trying camera indices [0, 1, 2, 3, 4, 5] with backends [700, 1400, 0]
+[2026-02-03 10:05:35] Try index=0, backend=700 -> opened=True
+[2026-02-03 10:05:36] Read test index=0, backend=700 -> ok=True, frame_none=False
+[2026-02-03 10:05:51] Cascade resolve -> C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project\haarcascade_frontalface_default.xml
+[2026-02-03 10:05:51] OpenCV version: 4.13.0
+[2026-02-03 10:05:51] Trying camera indices [0, 1, 2, 3, 4, 5] with backends [700, 1400, 0]
+[2026-02-03 10:05:51] Try index=0, backend=700 -> opened=True
+[2026-02-03 10:05:52] Read test index=0, backend=700 -> ok=True, frame_none=False
+[2026-02-03 10:05:59] Cascade resolve -> C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project\haarcascade_frontalface_default.xml
+[2026-02-03 10:05:59] OpenCV version: 4.13.0
+[2026-02-03 10:05:59] Trying camera indices [0, 1, 2, 3, 4, 5] with backends [700, 1400, 0]
+[2026-02-03 10:05:59] Try index=0, backend=700 -> opened=True
+[2026-02-03 10:06:00] Read test index=0, backend=700 -> ok=True, frame_none=False
+[2026-02-03 10:18:24] ===== App started =====
+[2026-02-03 10:18:24] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 10:18:24] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 11:20:14] ===== App started =====
+[2026-02-03 11:20:14] BASE_DIR=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
+[2026-02-03 11:20:14] CWD=C:\Users\Aysegul Koca\PycharmProjects\Students Attendance Project
